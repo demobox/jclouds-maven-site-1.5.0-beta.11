@@ -33,6 +33,7 @@ org.jclouds.enterprise.config
 org.jclouds.epc
 org.jclouds.gae
 org.jclouds.gae.config
+org.jclouds.go2cloud
 org.jclouds.hpcloud.compute
 org.jclouds.hpcloud.compute.config
 org.jclouds.hpcloud.objectstorage
